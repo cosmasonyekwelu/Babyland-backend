@@ -18,6 +18,4 @@ module.exports = connectDB;
 //v2T9G5834fKrKypF
 //mongodb+srv://onyecosmas:v2T9G5834fKrKypF@cluster0.l9yve.mongodb.net/Baby-Toys?retryWrites=true&w=majority&appName=Cluster0
 
-// chimannabuike23
-// GhjBqHspZAiIpXdX
-// mongodb+srv://chimannabuike23:GhjBqHspZAiIpXdX@cluster0.jkxvi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+//https://babyland-backend-z36w.onrender.com/ | https://git.heroku.com/babyland-backend-z36w.git
